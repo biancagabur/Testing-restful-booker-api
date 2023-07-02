@@ -1,0 +1,3 @@
+/target/test-classes/testing/token_generation.feature
+/target/test-classes/testing/RunCucumberTest.class
+/target/test-classes/testing/StepDefinition.class
