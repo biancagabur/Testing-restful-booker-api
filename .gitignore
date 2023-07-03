@@ -10,3 +10,4 @@
 /target/test-classes/features/token_generation.feature
 /target/classes/User.class
 /target/test-classes/requests/validTokenGenerationRequest.json
+/target/
