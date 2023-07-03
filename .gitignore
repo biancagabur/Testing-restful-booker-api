@@ -1,3 +1,12 @@
 /target/test-classes/testing/token_generation.feature
 /target/test-classes/testing/RunCucumberTest.class
 /target/test-classes/testing/StepDefinition.class
+/target/classes/helper/FileHelper.class
+/target/test-classes/requests/invalidTokenGenerationRequest.json
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_15_2.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_15_2.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_15_2.xml
+/target/test-classes/tokenGenerationTests/RunCucumberTest.class
+/target/test-classes/features/token_generation.feature
+/target/classes/User.class
+/target/test-classes/requests/validTokenGenerationRequest.json
